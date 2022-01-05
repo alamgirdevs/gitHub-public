@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: yellow;
+    background-color: gray;
+}
+
+img {
+    height: 500px;
+    width: 100%;
+}
